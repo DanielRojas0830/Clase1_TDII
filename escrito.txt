@@ -1,3 +1,6 @@
+Git status
 Git add .
 git commit -m "mi primer commit"
 git push
+
+
